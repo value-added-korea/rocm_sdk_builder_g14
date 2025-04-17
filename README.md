@@ -1,6 +1,6 @@
-# ROCM SDK Builder ROCM 6.3.3, Linux Arch Kernel 6.14, Asus Zephrus G14 Laptop ASUSTeK ROG Zephyrus G14 GA402RJ_GA402RJ
+# ROCM SDK Builder ROCM 6.3.3, Linux Arch Kernel 6.14, Asus Zephrus G14 Laptop ASUSTeK ROG Zephyrus G14 GA402RJ
 
-This git is a branch of ![ROCM SDK Builder](https://github.com/lamikr/rocm_sdk_builder)
+This git is a branch of [ROCM SDK Builder](https://github.com/lamikr/rocm_sdk_builder)
 
 ## Key modifications
 - updated to conform with cmake version 4.0.1 which is Linux Arch current for Kernle 6.13.8-arch1-1.2-g14
