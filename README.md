@@ -1,4 +1,14 @@
-# ROCM SDK Builder Briefly
+# ROCM SDK Builder ROCM 6.3.3, Linux Arch Kernel 6.14, Asus Zephrus G14 Laptop ASUSTeK ROG Zephyrus G14 GA402RJ_GA402RJ
+
+This git is a branch of ![ROCM SDK Builder](https://github.com/lamikr/rocm_sdk_builder)
+
+## Key modifications
+- updated to conform with cmake version 4.0.1 which is Linux Arch current for Kernle 6.13.8-arch1-1.2-g14
+- modified cmake files in a number of the builds due to most cmake files are v3, 3.1, 3.2 etc
+- intended really only for Asus ROG Zephyrus G14 GA402RJ with Kernel 6.13.8-arch1-1.2-g14
+- Navi23 AMD GPU 6700S, Rembrandt Radeon 680M custom kernel support
+
+DO NOT USE IF if the kernel and hardware configuration do not match use the original project [ROCM SDK Builder](https://github.com/lamikr/rocm_sdk_builder)
 
 ROCM SDK Builder provides easy and convenient machine learning and GPU computing development environment by using single or multiple regular consumer level GPUs on PC and laptop environments.
 
